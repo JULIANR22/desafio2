@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 5px;
+}
+body {
+    position: relative;
+    top: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    align-items: center;
+}
+.siBorde{
+    border: 2px solid red;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(138, 199, 199);
+    border-radius: 40px;
+}
+h1{
+    padding: 50px;
+    font-size: 50px;
+    border-bottom: 1px solid #1dcada;
+}
+
+
+h2{
+    display: inline-block;
+    width: 80%;
+    padding-bottom: 50px;
+    margin: 5px;
+    font-size: 40px;  
+    
+}
